@@ -1,0 +1,5 @@
+{
+  "name": "Live Social Stats Dashboard",
+  "description": "A sleek dashboard that displays live subscriber and view counts for your social media accounts including Instagram, YouTube, Facebook, TikTok, Twitch, and Kick.",
+  "requestFramePermissions": []
+}
